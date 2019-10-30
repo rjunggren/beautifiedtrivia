@@ -1,4 +1,4 @@
-# uglytrivia
+# Beautified trivia
 
 
 This is a deliberately poorly written simulation of a trivia game.
